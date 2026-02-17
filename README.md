@@ -20,6 +20,7 @@ TECHNOLOGIES
 ![Home Screen](assets/images/home.jpeg)
 ![Live Map](assets/images/login.jpeg)
 ![Live Map](assets/images/studentdash.jpeg)
+![Live Map](assets/images/mapdist.jpeg)
 ![Live Map](assets/images/admindash.jpeg)
 ![Live Map](assets/images/schedule.jpeg)
 ![Live Map](assets/images/drivergpson.jpeg)
