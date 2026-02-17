@@ -26,3 +26,4 @@ TECHNOLOGIES
 ![Live Map](assets/images/drivergpson.jpeg)
 ![Live Map](assets/images/gpsoff.jpeg)
 ![Live Map](assets/images/route.jpeg)
+<img src="assets/images/mapdist.jpeg" width="250"/>
