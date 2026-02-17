@@ -18,5 +18,10 @@ TECHNOLOGIES
 5.MapTiler / OpenMaps
 
 ![Home Screen](assets/images/home.jpeg)
-
 ![Live Map](assets/images/login.jpeg)
+![Live Map](assets/images/studentdash.jpeg)
+![Live Map](assets/images/admindash.jpeg)
+![Live Map](assets/images/schedule.jpeg)
+![Live Map](assets/images/drivergpson.jpeg)
+![Live Map](assets/images/gpsoff.jpeg)
+![Live Map](assets/images/route.jpeg)
